@@ -76,3 +76,9 @@ models/multimodal_model.pth
 ## Citation
 
 If you use this work, please cite the associated publication.
+
+## Reproducibility
+This repository reproduces the results reported in:
+“Multi-Modal Fusion with Hierarchical Attention for Video Emotion Analysis”
+
+All figures and results in the manuscript are generated using this code.
